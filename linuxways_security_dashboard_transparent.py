@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Written By Atif Ahmed - Platform Architect 
+Written By Atif Ahmed - Platform Architect & Offensive Security Consultant 
 LinuxWays Security Center — Transparent Desktop HUD
 Python 3 / GTK3
 
